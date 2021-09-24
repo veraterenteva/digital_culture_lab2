@@ -1,0 +1,6 @@
+[submodule "gosha-score"]
+	path = gosha-score
+	url = https://github.com/valyankilyan/gosha-score.git
+[submodule "gosha_score"]
+	path = gosha_score
+	url = https://github.com/valyankilyan/gosha_score.git
